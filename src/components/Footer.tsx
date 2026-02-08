@@ -7,9 +7,9 @@ const Footer = () => {
           <span className="text-muted-foreground">.lol</span>
         </div>
         <div className="flex items-center gap-6">
-          <a href="https://discord.gg/fennec" target="_blank" rel="noopener noreferrer" className="text-sm text-muted-foreground hover:text-foreground">Discord</a>
-          <a href="https://fennec.lol/purchase" target="_blank" rel="noopener noreferrer" className="text-sm text-muted-foreground hover:text-foreground">Purchase</a>
-          <a href="https://fennec.lol/panel" target="_blank" rel="noopener noreferrer" className="text-sm text-muted-foreground hover:text-foreground">Panel</a>
+          <a href="https://dsc.gg/fennec" target="_blank" rel="noopener noreferrer" className="text-sm text-muted-foreground hover:text-foreground">Discord</a>
+          <a href="https://fennec.sell.app/" target="_blank" rel="noopener noreferrer" className="text-sm text-muted-foreground hover:text-foreground">Purchase</a>
+          <a href="https://keyauth.cc/panel/Maybecool/Fennec.lol+External" target="_blank" rel="noopener noreferrer" className="text-sm text-muted-foreground hover:text-foreground">Panel</a>
         </div>
         <p className="text-xs text-muted-foreground">© 2026 Fennec.lol</p>
       </div>
