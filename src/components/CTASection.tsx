@@ -11,7 +11,7 @@ const CTASection = () => {
           </p>
           <div className="flex flex-col items-center justify-center gap-3 sm:flex-row">
             <a
-              href="https://fennec.lol/purchase"
+              href="https://fennec.sell.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="gradient-primary rounded-xl px-10 py-3.5 font-display text-sm font-semibold text-primary-foreground transition-transform hover:scale-105"
@@ -19,7 +19,7 @@ const CTASection = () => {
               Purchase Now
             </a>
             <a
-              href="https://fennec.lol/panel"
+              href="https://keyauth.cc/panel/Maybecool/Fennec.lol+External"
               target="_blank"
               rel="noopener noreferrer"
               className="glass-card border-glow card-hover rounded-xl px-10 py-3.5 font-display text-sm font-semibold text-foreground"
