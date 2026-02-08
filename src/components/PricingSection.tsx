@@ -8,9 +8,9 @@ const plans = [
     description: "Try it out",
     features: [
       "Full ESP & Visuals",
-      "Silent Aim",
-      "Speed & Fly",
-      "Auto Updates",
+      "AIMBOT",
+      "Speed & Jump",
+      "Fast Updates",
       "Discord Support",
     ],
     icon: Zap,
@@ -118,7 +118,7 @@ const PricingSection = () => {
               </ul>
 
               <a
-                href="https://fennec.lol/purchase"
+                href="https://fennec.sell.app/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`block w-full rounded-xl py-3 text-center font-display text-sm font-semibold transition-all hover:scale-[1.02] ${
