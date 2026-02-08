@@ -18,7 +18,7 @@ const features = [
   },
   {
     icon: Target,
-    title: "Silent Aim",
+    title: "AimBot",
     description: "Precision aimbot with FOV and smoothing options.",
   },
   {
