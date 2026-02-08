@@ -23,9 +23,6 @@ const ShowcaseSection = () => {
               />
             </div>
           </div>
-          <p className="mt-6 text-center text-sm text-muted-foreground">
-            Replace with your actual showcase video
-          </p>
         </div>
       </div>
     </section>
