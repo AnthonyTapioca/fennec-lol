@@ -16,7 +16,7 @@ const ShowcaseSection = () => {
             <div className="relative aspect-video w-full overflow-hidden rounded-xl bg-secondary">
               <iframe
                 className="h-full w-full"
-                src="https://www.youtube.com/embed/dQw4w9WgXcQ"
+                src="https://www.youtube.com/embed/a4NTnx1x-vk"
                 title="Fennec.lol Showcase"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
