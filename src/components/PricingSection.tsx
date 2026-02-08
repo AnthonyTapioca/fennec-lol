@@ -3,7 +3,7 @@ import { Check, Zap, Star, Crown } from "lucide-react";
 const plans = [
   {
     name: "Weekly",
-    price: "$9.99",
+    price: "$3.99",
     period: "/week",
     description: "Try it out",
     features: [
@@ -18,7 +18,7 @@ const plans = [
   },
   {
     name: "Monthly",
-    price: "$24.99",
+    price: "$14.99",
     period: "/month",
     description: "Most popular",
     features: [
@@ -34,7 +34,7 @@ const plans = [
   },
   {
     name: "Lifetime",
-    price: "$79.99",
+    price: "$19.99",
     period: "once",
     description: "Best value",
     features: [
