@@ -5,7 +5,7 @@ const navLinks = [
   { label: "Features", href: "#features" },
   { label: "Pricing", href: "#pricing" },
   { label: "FAQ", href: "#faq" },
-  { label: "Discord", href: "https://discord.gg/fennec", external: true },
+  { label: "Discord", href: "https://dsc.gg/fennec", external: true },
 ];
 
 const Navbar = () => {
@@ -32,7 +32,7 @@ const Navbar = () => {
             </a>
           ))}
           <a
-            href="https://fennec.lol/panel"
+            href="https://keyauth.cc/panel/Maybecool/Fennec.lol+External"
             target="_blank"
             rel="noopener noreferrer"
             className="gradient-primary rounded-lg px-5 py-2 text-sm font-medium text-primary-foreground transition-transform hover:scale-105"
@@ -62,7 +62,7 @@ const Navbar = () => {
               </a>
             ))}
             <a
-              href="https://fennec.lol/panel"
+              href="https://keyauth.cc/panel/Maybecool/Fennec.lol+External"
               target="_blank"
               rel="noopener noreferrer"
               className="gradient-primary rounded-lg px-5 py-2.5 text-center text-sm font-medium text-primary-foreground"
